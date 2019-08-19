@@ -1,0 +1,3 @@
+# Cartfile docs: https://github.com/Carthage/Carthage#quick-start
+# 
+github "xxx" "branch"
